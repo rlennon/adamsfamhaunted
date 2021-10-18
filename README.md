@@ -1,5 +1,5 @@
 # adamsfamhaunted
-Repo for Small Window Assignment 
+Repo for Adams Family Haunted House Accommodation Assignment 
 
 ## Table of Contents
 
