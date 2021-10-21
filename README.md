@@ -30,15 +30,37 @@ This is the online repository for the DevOps Assignment 2021.
 
 
 Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
+ 
+###Scrum Masters
++ October 21st - Jessica
++ October 28th - Brian
++ November 4th - Amy
++ November 11th - Kacper
++ November 18th - Robbie
++ November 25th - Michael
++ December 2nd - James
 
 ### Product Owner
-<<name>>
++ October 21st - James
++ October 28th - Michael
++ November 4th - Robbie
++ November 11th - Jessica
++ November 18th - Amy
++ November 25th - Kacper
++ December 2nd - Brian
++ December 9th - Mario
+ 
 
 ### Rockstars
-* <<team member name>>
-* <<team member name>>
-* <<team member name>>
-* <<team member name>>
+* Amy Campbell
+* Brian Bonner
+* James Kelly
+* Jessica Moore
+* Kacper Kukula
+* Mario Kostadinov
+* Michael Gallagher
+* Robbie McLaughlin
+ 
   
 ## Project Deadline
 
@@ -60,8 +82,8 @@ Refer to BB for deadlines
 
 ## Useful Links
 
-* Project Slack: <<slack channel link>>
-* GitHub: <<github repo link>>
+* Project Slack: https://app.slack.com/client/T84LE6L6R/C02HVTWHNTW
+* GitHub: https://github.com/rlennon/adamsfamhaunted
 * Jira: <<Jira link>>
    
 ### More Information
@@ -126,7 +148,7 @@ These are the current Risks on the project, re-aligned on a weekly basis
 
 ### Meetings
 
-    Stand-ups will occur on Every <<day - Thursday>> during class and Mondays at 8pm GMT+1 using Automated bot.
+    Stand-ups will occur every Thursday during class and Tuesdays at 8pm GMT+1 using Microsoft Teams.
     The order that people give their updates will be based on alphabetical order of those present at the meeting.
     Updates will be in the form: What I've done, Impediments, What I plan to do.
     Sprint planning will occur Mondays at the end of our sprint on Zoom.
