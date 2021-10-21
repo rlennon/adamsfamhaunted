@@ -131,7 +131,7 @@ and outdated packages. The results should be made accessible for everyone to inc
 * Snyk is an open-source automatic software which can help to fix vulnerabilities
 in our code, dependencies, containers and infrastructure as a code.
 
-- [WhiteSource}(https://www.whitesourcesoftware.com/software-composition-analysis-lp/?utm_origin=ad&utm_from=adwords&utm_pcampaign=fs.competitors.snyk.geo-2.search&utm_gen=searched+term%3Asnyk+alternative&gclid=cjwkcajwn8slbhayeiwahntjbtgu5o_szranrchchjuuqfzx2ku3uzx_46bd0vekgtvitw65npgjmboc9n8qavd_bwe)
+- [WhiteSource](https://www.whitesourcesoftware.com/software-composition-analysis-lp/?utm_origin=ad&utm_from=adwords&utm_pcampaign=fs.competitors.snyk.geo-2.search&utm_gen=searched+term%3Asnyk+alternative&gclid=cjwkcajwn8slbhayeiwahntjbtgu5o_szranrchchjuuqfzx2ku3uzx_46bd0vekgtvitw65npgjmboc9n8qavd_bwe)
 
 * WhiteSource is another open-source security and licence compliance software.
 
