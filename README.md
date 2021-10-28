@@ -31,7 +31,7 @@ This is the online repository for the DevOps Assignment 2021.
 
 Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
  
-###Scrum Masters
+### Scrum Masters
 + October 14th - Mario
 + October 21st - Jessica
 + October 28th - Brian
@@ -85,7 +85,7 @@ Refer to BB for deadlines
 
 * Project Slack: https://app.slack.com/client/T84LE6L6R/C02HVTWHNTW
 * GitHub: https://github.com/rlennon/adamsfamhaunted
-* Jira: <<Jira link>>
+* Jira: https://studentjira.lyit.ie/projects/ADAMSFAM
    
 ### More Information
 
@@ -170,7 +170,7 @@ These are the current Risks on the project, re-aligned on a weekly basis
 
     Slack is the preferred method of communication.
     Communication in this order: Slack
-    If a demonstration is required use Zoom, record the session and upload to the Slack channel.
+    If a demonstration is required use Microsoft Teams, record the session and upload to the Slack channel.
     No Slack communications between "<Time and Timezone>" TBD.
     Raise a problem as soon as you see it.
     Respect each other and understand differences in knowledge.
@@ -194,7 +194,7 @@ These are the current Risks on the project, re-aligned on a weekly basis
 
 ## Other
 
-    Sprints will start <<date/time every Second Monday at 9pm GMT+1>>.
+    Sprints will start every Thursday at 3:30pm.
     The Scrum Master role rotates each week, the schedule is available on the on the process section
     Jira will be used for task management and planning.
     Each member of the team will work 8 per week, unless they are on vacation.
