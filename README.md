@@ -56,7 +56,6 @@ Our product will be delivered using an Agile methodology that embraces the DevOp
 * Brian Bonner
 * James Kelly
 * Jessica Moore
-* Kacper Kukula
 * Mario Kostadinov
 * Michael Gallagher
 * Robbie McLaughlin
