@@ -36,7 +36,7 @@ Our product will be delivered using an Agile methodology that embraces the DevOp
 + October 21st - Jessica
 + October 28th - Brian
 + November 4th - Amy
-+ November 11th - Kacper
++ November 11th - Mario
 + November 18th - Robbie
 + November 25th - Michael
 + December 2nd - James
@@ -47,9 +47,8 @@ Our product will be delivered using an Agile methodology that embraces the DevOp
 + November 4th - Robbie
 + November 11th - Jessica
 + November 18th - Amy
-+ November 25th - Kacper
-+ December 2nd - Brian
-+ December 9th - Mario
++ November 25th - Brian
++ December 2nd - Mario
  
 
 ### Rockstars
