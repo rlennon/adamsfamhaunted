@@ -1,6 +1,8 @@
 # adamsfamhaunted
 Repo for Adams Family Haunted House Accommodation Assignment 
 
+# New Branch
+
 ## Table of Contents
 
   * [Preamble](#preamble)
