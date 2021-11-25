@@ -5,7 +5,7 @@
 
 > Once you establish a connection to the database navigate to the query window and enter the code below
 
-![Reset password to allow database connection and flush privileges](https://github.com/rlennon/adamsfamhaunted/blob/ver1/AdamsFam/public/images/ResetPassword.PNG)
+![Reset password to allow database connection and flush privileges](https://github.com/rlennon/adamsfamhaunted/blob/main/ver1/AdamsFam/public/images/ResetPassword.PNG)
 
 
 # Tables (Fields and Entities)
@@ -14,7 +14,7 @@
 <details>
   <summary>View table</summary>
 
-![Users Table](https://github.com/rlennon/adamsfamhaunted/blob/ver1/AdamsFam/public/images/users_table.PNG)
+![Users Table](https://github.com/rlennon/adamsfamhaunted/blob/main/ver1/AdamsFam/public/images/users_table.PNG)
 
 </details>
 
@@ -22,7 +22,7 @@
 <details>
   <summary>View table</summary>
 
-![Bookings Table](https://github.com/rlennon/adamsfamhaunted/blob/ver1/AdamsFam/public/images/bookings_table.PNG)  
+![Bookings Table](https://github.com/rlennon/adamsfamhaunted/blob/main/ver1/AdamsFam/public/images/bookings_table.PNG)  
 
 </details>
 
@@ -30,7 +30,7 @@
 <details>
   <summary>View table</summary>
 
-![Accommodations Table](https://github.com/rlennon/adamsfamhaunted/blob/ver1/AdamsFam/public/images/accommodations_table.PNG)
+![Accommodations Table](https://github.com/rlennon/adamsfamhaunted/blob/main/ver1/AdamsFam/public/images/accommodations_table.PNG)
 </details>
 
 
@@ -38,5 +38,5 @@
 <details>
   <summary>View table</summary>
 
-![ERD](https://github.com/rlennon/adamsfamhaunted/blob/ver1/AdamsFam/public/images/ERD.PNG)
+![ERD](https://github.com/rlennon/adamsfamhaunted/blob/main/ver1/AdamsFam/public/images/ERD.PNG)
 </details>
