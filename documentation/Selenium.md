@@ -9,8 +9,8 @@
 ```
 <project>
 <modelVersion></modelVersion>
-   *<groupId>Selenium.maven</groupId>*
-   *<artifactId>Name of Project goes here</artifactId>*
+   <groupId>Selenium.maven</groupId>
+   <artifactId>Name of Project goes here</artifactId>
 
 </project>
 ```
