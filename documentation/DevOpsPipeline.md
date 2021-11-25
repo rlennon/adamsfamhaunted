@@ -26,7 +26,7 @@
 
 # Video Tutorials 
 
-[CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
-[Azure Pipelines (Very Interesting)](https://www.youtube.com/watch?v=NuYDAs3kNV8)
-[5 Essential DevOps Pipeline Stages](https://www.youtube.com/watch?v=IY9WvL95azs)
-[What is DevOps (Nicely Illustrated)[https://www.youtube.com/watch?v=Xrgk023l4lI]
+-[CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
+-[Azure Pipelines (Very Interesting)](https://www.youtube.com/watch?v=NuYDAs3kNV8)
+-[5 Essential DevOps Pipeline Stages](https://www.youtube.com/watch?v=IY9WvL95azs)
+-[What is DevOps (Nicely Illustrated][https://www.youtube.com/watch?v=Xrgk023l4lI]
