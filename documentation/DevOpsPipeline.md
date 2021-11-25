@@ -32,4 +32,4 @@
 
 - [5 Essential DevOps Pipeline Stages](https://www.youtube.com/watch?v=IY9WvL95azs)
 
-- [What is DevOps (Nicely Illustrated)][https://www.youtube.com/watch?v=Xrgk023l4lI]
+- [What is DevOps (Nicely Illustrated)](https://www.youtube.com/watch?v=Xrgk023l4lI)
