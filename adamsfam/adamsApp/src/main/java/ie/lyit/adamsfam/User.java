@@ -5,7 +5,7 @@ public class User {
 	//first name of user
 	private String fname;
 	
-	//second name of the user
+	//second name of th user
 	private String sname; 
 	
 	//the constructor
