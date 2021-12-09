@@ -32,6 +32,7 @@ This is the online repository for the DevOps Assignment 2021.
 Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
  
 ### Scrum Masters
++ October 14th - Mario
 + October 21st - Jessica
 + October 28th - Brian
 + November 4th - Amy
