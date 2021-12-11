@@ -90,6 +90,14 @@ public class User {
 		return this.userId; 
 	}
 
+	//the two string method
+	@Override
+	public String toString(){
+		return "Username: " + this.username
+			   "Email: " + this.email
+			   "Fullname: "+ this.getFullName()
+			   "BookingId : " +  this.bookingId;
+	}
 
 	//the equals method
 	@Override
