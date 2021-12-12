@@ -101,12 +101,16 @@ public class User {
 
 	//the equals method
 	@Override
-	public boolean equals(User otherUsr){
+	public boolean equals(Object obj){
 
+		//declare the varible
+		User otherUsr;
+		
 		//check if the other object is an instance of user 
 		if(otherUsr instanceof User)
 		{
-			//do nothing
+			//set the value of the objaect
+			otherUsr = (User)obj; 
 
 		} 
 		else{
