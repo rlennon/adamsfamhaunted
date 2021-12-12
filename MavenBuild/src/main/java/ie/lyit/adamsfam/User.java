@@ -93,9 +93,9 @@ public class User {
 	//the two string method
 	@Override
 	public String toString(){
-		return "Username: " + this.username
-			   "Email: " + this.email
-			   "Fullname: "+ this.getFullName()
+		return "Username: " + this.username + 
+			   "Email: " + this.email +
+			   "Fullname: "+ this.getFullName() +
 			   "BookingId : " +  this.bookingId;
 	}
 
