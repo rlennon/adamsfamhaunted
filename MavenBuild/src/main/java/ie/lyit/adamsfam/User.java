@@ -122,7 +122,7 @@ public class User {
 		}
 
 		//check if certians varibles are the same (Username, Email, UserID)
-		if((this.username.equals(otherUsr.username)) || (this.email.equals(otherUsr.email))  || (this.UserID.equals(otherUsr.UserID)){
+		if((this.username.equals(otherUsr.username)) || (this.email.equals(otherUsr.email))  || (this.UserID.equals(otherUsr.UserID))){
 			//return true
 			return true;
 
