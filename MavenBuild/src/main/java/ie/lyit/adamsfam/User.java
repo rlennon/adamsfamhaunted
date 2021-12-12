@@ -85,7 +85,7 @@ public class User {
 	}
 
 	//get the userId
-	public String getUserId(){
+	public int getUserId(){
 		//return the user name of the user
 		return this.userId; 
 	}
@@ -107,7 +107,7 @@ public class User {
 		User otherUsr;
 		
 		//check if the other object is an instance of user 
-		if(otherUsr instanceof User)
+		if(obj instanceof User)
 		{
 			//set the value of the objaect
 			otherUsr = (User)obj; 
@@ -122,7 +122,7 @@ public class User {
 		}
 
 		//check if certians varibles are the same (Username, Email, UserID)
-		if((this.username.equals(otherUsr.username)) || (this.email.equals(otherUsr.email))  || (this.UserID.equals(otherUsr.UserID))){
+		if((this.username.equals(otherUsr.username)) || (this.email.equals(otherUsr.email))  || (this.userId == otherUsr.userId)){
 			//return true
 			return true;
 
