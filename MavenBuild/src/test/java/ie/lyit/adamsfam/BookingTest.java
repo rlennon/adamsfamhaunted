@@ -4,28 +4,37 @@
 package ie.lyit.adamsfam;
 
 import static org.junit.Assert.*;
+import org.junit.Test;
 
 public class BookingTest
 {
-	@Test
 	// create a new booking object
-	Booking testBooking = new Booking(001, "Bloggs", 105);
+	private Booking testBooking = new Booking(001, "Bloggs", 105);
+	private Booking booking2 = new Booking(001, "Bloggs", 105);
 
-	// test that the properties are working
-	int bookingNumberValue = testBooking.getBookingNumber();
-	String bookingNameValue = testBooking.getBookingName();
-	int bookingRoomValue = testBooking.getRoomBooked();
-
-	// check if the values match
-	assertEquals(bookingNumberValue, 001);
-	assertEquals(bookingNameValue, "Bloggs");
-	assertEquals(bookingRoomValue, 105);
-
+	@Test
+	public void testBooking() 
+	{
+		// check that the values have been set correctly
+		assertTrue(001 == testBooking.getBookingNumber()); // check if booking number is correct
+		assertEquals("Bloggs", testBooking.getBookingName()); // check if booking name is correct
+		assertTrue(105 == testBooking.getRoomBooked()); // check if pricePerNight is correct 
+			
+	}
+	
 	// toString() method to display the booking object & ensure all details are correct
-	System.out.println(testBooking.toString());
-
-	// equals() method to compare two booking objects by looking at their unique booking number
-	Booking anotherBooking = new Booking(002, "Surname", 106);
-	System.out.println("Are the bookings the same?: " +testBooking.equals(anotherBooking)); // prints out either true or false
+	@Test
+	public void testToString() 
+	{
+		assertEquals("Booking number: 1 Name: Bloggs Room: 105", testBooking.toString());
+	}
+   
+	// equals() method to compare two booking objects
+	@Test
+	public void testEquals()
+	{
+		assertTrue(testBooking.equals(booking2)); // objects are currently the same, so this passes
+		
+	}
 
 }
