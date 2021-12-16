@@ -43,6 +43,7 @@ Our product will be delivered using an Agile methodology that embraces the DevOp
 + November 25th - Michael
 + December 2nd - James
 + December 9th - Brian
++ December 16th - Jessica 
  
 ### Product Owner
 + October 21st - James
@@ -53,6 +54,7 @@ Our product will be delivered using an Agile methodology that embraces the DevOp
 + November 25th - Brian
 + December 2nd - Mario
 + December 9th - Michael 
++ December 16th - Amy
 
 ### Rockstars
 * Amy Campbell
