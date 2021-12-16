@@ -16,7 +16,7 @@ public class Booking
 
 
 	// properties
-	// accessors (getters)
+	// accessors (getters)	
 	public int getBookingNumber()
 	{
 		return bookingNumber;
@@ -57,7 +57,7 @@ public class Booking
 	// toString() method to display booking details
 	public String toString()
 	{
-		return "\nBooking number: " +bookingNumber +"\nName: " +bookingName +"\nRoom: " +roomBooked;
+		return "Booking number: " +bookingNumber +" Name: " +bookingName +" Room: " +roomBooked;
 	}
 
 	// equals() method to compare two booking objects
