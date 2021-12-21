@@ -25,10 +25,11 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      # Test the build with c# and see if it works
-      - name: Docker build
+      # Test multiple builds 
+      - name: Docker build #docker
         run: |
           docker build ./c# -t aimvector/csharp:1.0.0
+      # add more builds if you need to (Python, JavaScript, and more)
           
 
      
